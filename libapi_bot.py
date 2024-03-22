@@ -36,5 +36,7 @@ def reverse_text(message):
     text = message.text[::1]
     bot.reply_to(message, text)
 
+@bot.
+
 
 bot.polling()
